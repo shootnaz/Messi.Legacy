@@ -14,7 +14,7 @@ El proyecto puede ser visualizado de dos formas distintas:
 
 Opción 1: Visualización en línea. haciendo clic en el siguiente enlace:
 
-Ver Messi.Legacy en línea https://shootnaz.github.io/Messi.Legacy/
+Ver Messi.Legacy en línea: https://shootnaz.github.io/Messi.Legacy/
 
 Opción 2: de manera local (Código Fuente) para descargar los archivos del proyecto y ejecutarlo en tu computadora, sigue estos pasos:
 
